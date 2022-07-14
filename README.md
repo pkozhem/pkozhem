@@ -1,11 +1,4 @@
 <pre>
-<h3>- Pavel Kozhemjachenko<br>
-- BSUIR  20 years old student. <br>
-- Engineer and Software developer. <br>
-- On the way of becoming Python senior back-end developer. <br>
-</h3>
-</pre>
-<pre>
 <h3>Languages, Skills and Tools: <br>
 1) Python
 2) Python Django Framwork
