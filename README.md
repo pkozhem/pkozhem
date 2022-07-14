@@ -9,5 +9,5 @@
 <h3>Contacts:
 Telegram:   @eyuaiqqe
 Gmail:      pkozhem@gmail.com
-LinkedIn:   
+LinkedIn:   pavel kozhemjachenko
 </h3></pre>
