@@ -6,7 +6,7 @@
 4) C++                           9) GIT Technology
 5) ABAP Objects                 10) HTML5
 </h3></pre>
-<h2>Contacts: </h2>
-Telegram:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t.me/pkozhem<br>
-Gmail:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pkozhem@gmail.com<br>
-LinkedIn:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;linkedin.com/in/pkozhem
+<h3>Contacts: </h3>
+Telegram:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/pkozhem">t.me/pkozhem</a><br>
+Gmail:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:pkozhem@gmail.com">pkozhem@gmail.com</a><br>
+LinkedIn:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/pkozhem">linkedin.com/in/pkozhem</a>
