@@ -6,8 +6,8 @@
 4) C++                           9) GIT Technology
 5) ABAP Objects                 10) HTML5
 </h3></pre><pre>
-<h2>Contacts: </h2><h3>
+<h2>Contacts: </h2><h3></pre>
 Telegram:   @pkozhem
 Gmail:      pkozhem@gmail.com
 LinkedIn:   linkedin.com/in/pkozhem
-</h3></pre>
+</h3>
