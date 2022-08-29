@@ -9,5 +9,5 @@
 <h2>Contacts: </h2><h3>
 Telegram:   @pkozhem
 Gmail:      pkozhem@gmail.com
-LinkedIn:   pavel kozhemjachenko
+LinkedIn:   linkedin.com/in/pkozhem
 </h3></pre>
