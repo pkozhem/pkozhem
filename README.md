@@ -1,6 +1,6 @@
 <h2>Languages, Skills and Tools: </h2>
 <h3><pre>
-1) Python                        8) Git, GitHub, GtiLab
+1) Python                        8) Git, GitHub, GitLab
 2) Django                        9) HTML5, CSS
 3) Django REST Framework        10) WEB, Computer Systems
 4) Linux                        11) SAP ERP
