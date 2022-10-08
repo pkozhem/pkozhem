@@ -5,7 +5,7 @@
 3) Django REST Framework        10) WEB, Computer Systems
 4) Linux                        11) SAP ERP
 5) SQL                          12) ABAP Objects
-6) PostgreSQL                   13) C++
+6) PostgreSQL, Oracle           13) C++
 7) Docker
 </h3></pre>
 
