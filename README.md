@@ -1,4 +1,4 @@
-<h2>Languages, Skills and Tools: </h2>
+<h2>Technologies, Skills and Tools: </h2>
 <h3><pre>
 1) Python                        8) Git, GitHub, GitLab
 2) Django                        9) HTML5, CSS
