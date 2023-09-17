@@ -18,4 +18,4 @@ LinkedIn:                 <a href="https://linkedin.com/in/pkozhem">linkedin.com
 </h4></pre>
 
 
-[![Top Langs](https://<YOUR_CUSTOM_URL>/api/top-langs/?username=assebc)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
