@@ -18,4 +18,4 @@ LinkedIn:                 <a href="https://linkedin.com/in/pkozhem">linkedin.com
 </h4></pre>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
+<img alt="Hud0shnik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hud0shnik&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,Java,HTML,c%2B%2B,Ren'Py" height="198px"/>
