@@ -16,3 +16,6 @@ Telegram:                 <a href="https://t.me/pkozhem">t.me/pkozhem</a>
 Gmail:                    <a href="mailto:pkozhem@gmail.com">pkozhem@gmail.com</a>
 LinkedIn:                 <a href="https://linkedin.com/in/pkozhem">linkedin.com/in/pkozhem</a>
 </h4></pre>
+
+
+[![Top Langs](https://<YOUR_CUSTOM_URL>/api/top-langs/?username=assebc)](https://github.com/anuraghazra/github-readme-stats)
