@@ -1,14 +1,32 @@
-<h2>Technologies, Skills and Tools: </h2>
+<h2>Bio</h2>
 <h3><pre>
-1) Python                        8) Git, GitHub, GitLab
-2) Django / DRF                  9) HTML5, CSS
-3) Celery                       10) WEB, Computer Systems
-4) Linux                        11) SAP ERP
-5) SQL                          12) ABAP Objects
-6) PostgreSQL, Oracle           13) C++
-7) Docker
+Hello! My name is Pavel Kozhemjachenko and I'm software engineer, specialized on backend development,
+maintaining and developing high performing and stable systems. Currently working as Python backend
+software engineer. Also interested in Rust, WEB3 development
 </h3></pre>
 
+---
+
+<h2>Technologies, Skills and Tools: </h2>
+<h3><pre>
+- Languages:
+  1) Python                    3) Golang
+  2) Rust                      4) C
+  5) bash                      6) SQL
+- Technologies:
+  1) FastAPI                  11) Redis
+  2) SQLAlchemy               12) Docker, Docker Compoase
+  3) Alembic                  13) k8s
+  4) Django                   14) OpenTelemetry
+  5) DRF                      15) Prometheus
+  6) Celery                   16) Grafana
+  7) Kafka                    17) Sentry
+  8) RabbitMQ                 18) Git
+  9) PostgreSQL               19) GitLab, GitHub CI/CD
+  10) Oracle                  20) Linux
+</h3></pre>
+
+---
 
 <h2>Contacts: </h2>
 <h4><pre>
