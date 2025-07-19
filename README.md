@@ -30,8 +30,8 @@ WEB3 development and try myself in it.
 ---
 
 <h2>Contacts: </h2>
-<h4><pre>
-Telegram:                            <a href="https://t.me/pkozhem">t.me/pkozhem</a>
-Gmail:                               <a href="mailto:pkozhem@gmail.com">pkozhem@gmail.com</a>
-LinkedIn:                            <a href="https://linkedin.com/in/pkozhem">linkedin.com/in/pkozhem</a>
-</h4></pre>
+<h3><pre>
+Telegram:                     <a href="https://t.me/pkozhem">t.me/pkozhem</a>
+Gmail:                        <a href="mailto:pkozhem@gmail.com">pkozhem@gmail.com</a>
+LinkedIn:                     <a href="https://linkedin.com/in/pkozhem">linkedin.com/in/pkozhem</a>
+</h3></pre>
