@@ -1,8 +1,9 @@
 <h2>Bio</h2>
 <h3><pre>
-Hello! My name is Pavel Kozhemjachenko and I'm software engineer, specialized on backend development,
-maintaining and developing high performing and stable systems. Currently working as Python backend
-software engineer. Also interested in Rust, WEB3 development
+Hello! My name is Pavel Kozhemjachenko and I'm software engineer, specialized on
+backend development, maintaining and developing high performing and stable systems.
+Currently working as Python backend software engineer. Also I'm interested in Rust,
+WEB3 development and try mysefl in it.
 </h3></pre>
 
 ---
