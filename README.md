@@ -3,7 +3,7 @@
 Hello! My name is Pavel Kozhemjachenko and I'm software engineer, specialized on
 backend development, maintaining and developing high performing and stable systems.
 Currently working as Python backend software engineer. Also I'm interested in Rust,
-WEB3 development and try myself in it.
+WEB3 development.
 </h3></pre>
 
 ---
@@ -11,9 +11,9 @@ WEB3 development and try myself in it.
 <h2>Technologies, Skills and Tools: </h2>
 <h3><pre>
 - Languages:
-  1) Python                    3) Golang
-  2) Rust                      4) C
-  5) Bash                      6) SQL
+  1) Python                    4) C
+  2) Rust                      5) SQL
+  3) Golang                    6) Bash
 - Technologies:
   1) FastAPI                  11) Redis
   2) SQLAlchemy               12) Docker, Docker Compoase
@@ -24,7 +24,7 @@ WEB3 development and try myself in it.
   7) Kafka                    17) Sentry
   8) RabbitMQ                 18) Git
   9) PostgreSQL               19) GitLab, GitHub CI/CD
-  10) Oracle                  20) Linux
+ 10) Oracle                   20) Linux
 </h3></pre>
 
 ---
