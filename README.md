@@ -1,9 +1,9 @@
 <h2>Bio</h2>
 <h3><pre>
-Hello! My name is Pavel Kozhemjachenko and I'm software engineer, specialized on
-backend development, maintaining and developing high performing and stable systems.
-Currently working as Python backend software engineer. Also I'm interested in Rust,
-WEB3 development.
+I'm Pavel Kozhemjachenko and I'm a software engineer, specialized in backend
+development, maintaining and developing high-performing and stable systems.
+Currently working as a Python Backend Technical Lead. Maintainer of the fastproto
+and deckstream libraries. Also, I'm interested in Rust, Web3, and AI.
 </h3></pre>
 
 ---
@@ -23,8 +23,8 @@ WEB3 development.
   6) Celery, Taskiq           16) Grafana
   7) Kafka                    17) Sentry
   8) RabbitMQ                 18) Git
-  9) PostgreSQL               19) GitLab, GitHub CI/CD
- 10) Oracle                   20) Linux
+  9) NATS                     19) GitLab, GitHub CI/CD
+ 10) PostgreSQL               20) Linux
 </h3></pre>
 
 ---
